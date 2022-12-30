@@ -1,5 +1,5 @@
 
-package com.bridzelabz.linecomparision;
+package com.bridgelabz.linecomparision;
 
 public class Equality_of_Line {
 
