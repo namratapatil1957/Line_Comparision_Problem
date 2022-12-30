@@ -1,4 +1,4 @@
-package com.bridzelabz.linecomparision;
+package com.bridgelabz.linecomparision;
 
 public class Comparision_of_Line {
 
